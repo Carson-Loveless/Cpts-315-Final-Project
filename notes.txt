@@ -37,3 +37,4 @@ https://stackoverflow.com/questions/12291492/lowercase-stop-words-in-nltk-and-st
 https://pythonspot.com/nltk-stop-words/
 https://thatascience.com/learn-machine-learning/bag-of-words/
 https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
+https://monkeylearn.com/blog/classification-algorithms/
