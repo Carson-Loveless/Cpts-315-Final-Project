@@ -17,6 +17,7 @@ Multinomial Naive Bayes training:
 https://www.mygreatlearning.com/blog/multinomial-naive-bayes-explained/
 https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
 https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
+https://www.datacamp.com/tutorial/naive-bayes-scikit-learn
 
 SciPy:
 https://docs.scipy.org/doc/scipy/reference/sparse.html
