@@ -11,24 +11,29 @@ For text processing:
 https://www.nltk.org/
 https://www.nltk.org/howto/sentiment.html
 https://www.nltk.org/howto/tokenize.html
-https://pythonspot.com/nltk-stop-words/
-https://thatascience.com/learn-machine-learning/bag-of-words/
-https://www.statology.org/pandas-row-to-list/
+
 
 Multinomial Naive Bayes training:
 https://www.mygreatlearning.com/blog/multinomial-naive-bayes-explained/
 https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
 https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
 
+SciPy:
+https://docs.scipy.org/doc/scipy/reference/sparse.html
 
 install these dependancies:
 numPy
 scikit learn
 nltk
+pandas
 
 Possibly:
 vader - analyzes words and assigns a sentiment rating negative to positive
 
 Sources:
+https://www.mygreatlearning.com/blog/multinomial-naive-bayes-explained/
 https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
 https://stackoverflow.com/questions/12291492/lowercase-stop-words-in-nltk-and-storing-the-stop-words-in-the-list
+https://pythonspot.com/nltk-stop-words/
+https://thatascience.com/learn-machine-learning/bag-of-words/
+https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
