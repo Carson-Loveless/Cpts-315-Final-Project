@@ -23,11 +23,12 @@ https://practicaldatascience.co.uk/machine-learning/how-to-create-a-naive-bayes-
 SciPy:
 https://docs.scipy.org/doc/scipy/reference/sparse.html
 
-install these dependancies:
+install these dependencies:
 numPy
 scikit learn
 nltk
 pandas
+matplotlib
 
 Possibly:
 vader - analyzes words and assigns a sentiment rating negative to positive
@@ -40,3 +41,4 @@ https://pythonspot.com/nltk-stop-words/
 https://thatascience.com/learn-machine-learning/bag-of-words/
 https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
 https://monkeylearn.com/blog/classification-algorithms/
+https://datatofish.com/scatter-line-bar-charts-using-matplotlib/        //information about data plots using matplot
