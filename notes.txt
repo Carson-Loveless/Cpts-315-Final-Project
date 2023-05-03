@@ -29,6 +29,7 @@ scikit learn
 nltk
 pandas
 matplotlib
+seaborn
 
 Possibly:
 vader - analyzes words and assigns a sentiment rating negative to positive
@@ -42,3 +43,5 @@ https://thatascience.com/learn-machine-learning/bag-of-words/
 https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
 https://monkeylearn.com/blog/classification-algorithms/
 https://datatofish.com/scatter-line-bar-charts-using-matplotlib/        //information about data plots using matplot
+https://seaborn.pydata.org/generated/seaborn.scatterplot.html //got stuff about scatter plots
+https://danielmuellerkomorowska.com/2021/01/05/introduction-to-t-sne-in-python-with-scikit-learn/ //only reason i figured out tsne
