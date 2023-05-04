@@ -36,14 +36,9 @@ vader - analyzes words and assigns a sentiment rating negative to positive
 
 Sources:
 https://www.mygreatlearning.com/blog/multinomial-naive-bayes-explained/
-https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
-https://stackoverflow.com/questions/12291492/lowercase-stop-words-in-nltk-and-storing-the-stop-words-in-the-list
-https://pythonspot.com/nltk-stop-words/
 https://thatascience.com/learn-machine-learning/bag-of-words/
-https://buildmedia.readthedocs.org/media/pdf/nltk/latest/nltk.pdf
 https://monkeylearn.com/blog/classification-algorithms/
 https://datatofish.com/scatter-line-bar-charts-using-matplotlib/        //information about data plots using matplot
 https://seaborn.pydata.org/generated/seaborn.scatterplot.html //got stuff about scatter plots
 https://danielmuellerkomorowska.com/2021/01/05/introduction-to-t-sne-in-python-with-scikit-learn/ //only reason i figured out tsne
-https://stackoverflow.com/questions/39725960/sklearn-nb-classifier-how-to-get-the-actual-probabilities-of-individual-samples //getting probabilities of individual words
 https://stackoverflow.com/questions/50526898/how-to-get-feature-importance-in-naive-bayes used to find word lists of most likely to be in toxic or non_toxic comments
